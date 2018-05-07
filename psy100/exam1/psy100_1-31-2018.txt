@@ -1,0 +1,73 @@
+Medulla & Spinal Cord
+- typically called "brain stem"
+- controls heartbeat and breathing
+- persistent vegetative state - rest of brain is dead
+
+Inner Brain
+- Thalamus
+	- switchboard of the brain
+	- information to thalamus, then out to other parts of brain
+- Hypothalamus
+	- maintains homeostasis, temperature, ph, etc.
+- Amygdala
+	- main driver for anger and fear
+- Hippocampus
+	- formation of new memories and retrieval of old ones
+
+Cerebellum
+- controls balance and coordination
+- shrinks as you get older
+
+Cerebrum
+- also known as crebral cortex
+- occipital lobe
+	- rear lobe
+	- controls vision
+- temporal lobe
+	- controls hearing
+	- on left side
+- parietal lobe
+	- controls body sensation
+- frontal lobe
+	- human brains dedicate largest portion of brain to frontal lobe in animal kingdom
+	- controls movement
+	- exective function
+		- make plans
+		- inhibitions
+		- judgment
+	- emotions
+		- humans have more emotions than any other creature
+- memories take up the rest of the cortex
+	- each lobe has its own portion dedicated to the memories of the functions that lobe controls
+		- hearing memories, visual memories, planning memories, body sensation memories, etc.
+- alcohol
+	- affects brain from front to back
+	- judgment affected first
+	- then inhibitions on emotions
+	- then inhibitions on movements
+	- then inhibitions on speech
+	- then vision starts narrowing
+	- then unable to move well
+
+
+Learning
+- a relatively permanent change in knowledge, skills, or attitudes
+- learning by association
+	- A = B
+	- A -> C
+	- B -> C
+	- entire field of psychology based on learning by association
+- classical conditioning (Pavlov)
+	- Pavlov was a physiologist (a doctor)
+		- was trying to study digestion
+		- studied on dogs
+		- found stomach acid
+		- found saliva
+		- meat was causing dogs to produce stomach acid and saliva
+		- A -> B
+		- rang bell, give meat
+		- C -> B
+		- cause and effect
+			- stimulus and response
+				- unconditioned and unconditioned stimuli and responses
+

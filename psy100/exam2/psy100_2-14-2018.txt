@@ -1,0 +1,329 @@
+Memory
+
+Schema
+	- your idea, your expectation
+	- close idea to the real actual thing
+		- penny - copper colored coin with Lincoln on it
+			- not exact
+
+Process
+- encoding
+	- putting a memory in terms you can understand
+	- language you understand
+- storage
+	- once memory is stored, memory exists as long as neuron exists
+- retrieval
+	- getting memories back out
+	- most of them, you can't
+
+Models
+	- formed memory is a small bump on a dendrite
+
+- Stage Model
+	- short-term memory
+		- short duration
+			- about 30 seconds
+		- capacity
+			- 7 +/-2 CHUNKS
+				- chunk - bit of meaningful information
+					- chunks can be huge
+	- long-term memory
+		- if information is important, it will be shifted into long-term memory
+		- duration
+			- long duration (as long as the neuron is intact
+		- capacity
+			- huge
+			- every memory you form gives you capacity to form more memories
+		- different types of information
+			- declarative (explicit)
+				- memories of things you can say
+				- semantic
+					- facts, figures or trivia
+						- facts - important; trivia - not important
+				- episodic
+					- stories in your life
+					- don't kick in until you're three years old
+					- you make stuff up to make the story make sense to you
+					- easiest memories to form, easiest to lose
+			- non-declarative (implicit)
+				- memories of things you can't say
+					- example: what does it feel like to be hugged
+					- sense memories
+				- procedural
+					- how to
+						- motor functions like walking, riding bicycle, etc.
+						- practice
+					- hardest to learn
+						- only way to learn is to practice it
+					- hardest to lose
+						- "just like riding a bike"
+
+- Stage Model
+	- Spreading Activation (Network) Model
+		- Nodes
+			- Specific memories
+		- Links
+			- Connections between memories
+			- links can be various strengths
+			- positive and negative links
+		- overlays into brain very well
+		- strength of memories is based on number of links
+			- importance
+
+- what doesn't work well
+	- highlighting
+	- mnemonics
+	- cramming
+
+- what does work
+	- spaced practice
+	- practice testing
+		- learn what you do and do not know
+	- elaborative rehearsal
+		- fancy word for learning
+
+Memorization vs Learning
+	- memorization
+		- two nodes, practice the link over and over until link is strong
+		- over time, links fade
+	- learning
+		- learning is a procedure
+		- practice
+
+Forgetting
+- the inability to retrieve information
+
+- decay
+	- memories do not decay
+	- memories are actual formed memories in brain
+	- over time, links decay
+
+- encoding failure
+	- you didnt put memory in terms you could understanding
+	- leads to forgetting
+
+- consolidation failure
+	- consolidation is process of physically growing a memory
+	- brain did not grow the memory
+	- cause is something fairly significant
+		- car accident, trauma, etc.
+		- brain dumps anything not necessary for survival
+		- recording memory is dumped for survival
+	- 30 minutes to record a memory
+		- you will forget the past 30 memories before the trauma
+		- eventually try to piece together
+
+- motivated forgetting
+	- create a link that says "don't look"
+	- only works when there are not a lot of other links to memory trying to forget
+	- works for small things, not big traumatic things
+
+- interference
+	- other information gets in the way
+		- information is very similar
+			- focus on differences to differentiate
+		- information is extreme
+			- extreme information comes up first
+			- no way to deal with this
+
+- retrieval cue failure
+	- you're looking in the wrong part of your network
+	- dependent memory
+		- context dependent
+			- physical location
+			- lighting
+			- temperature
+			- smell-based
+		- state dependent
+			- internal state - how you feel
+				- healthy? sick?
+					- healthy memories, sick memories
+			- mood
+				- happy, sad, fearful memories
+
+Cognition
+- thinking
+- concepts/schema
+	- ideas
+	- formal concept
+		- based on a set of rules
+		- "this thing does this thing"
+		- rules cannot be broken
+		- learned in a formal setting
+			- someone taught you
+	- natural concept
+		- based on guidelines
+		- not absolute
+		- fuzzy concept
+		- prototype
+			- the one that meets the most guidelines
+		- learned from experience
+			- learns from personal experience
+		- exemplar
+			- your own personal prototype
+			- when we think, we think with exemplars
+
+Reasoning (logic)
+- coming to a conlcusion
+- two types of reasoning
+- deductive
+	- conclusion must be true
+	- "by definition"
+- inductive
+	- probably true
+		- sun rising in the east is inductive
+			- sun could blow up today, and not rise in the east
+
+Problem Solving
+- trial and error
+	- try shit
+	- pure trial and error has no rhyme or reason
+	- no barrier to trying the same thing twice
+	- fatal on an individual level, brilliant for a species
+- algorithm
+	- step by step procedure for solving a problem
+	- if a solution exists, an algorithm will find it
+- heuristic
+	- a rule of thumb
+	- doesn't always work
+	- availability
+		- make judgments on most easily available source of information
+			- our brain
+				- based on stuff we already know
+	- representativeness
+		- make judgments based on stereotypes
+	- anchoring
+		- stick with initial opinion
+
+Barriers to problem solving
+- mental set
+	- viewing the wrong problem
+	- functional fixedness
+		- view an item as having only one function
+	- confirmation bias
+		- we try to prove ourselves right
+			- this is wrong
+		- hard to prove infinity
+			- easy to prove wrong
+	- framing
+		- how you ask the question matters
+		- human beings are win positive and risk averse
+			- love winning, hate losing
+		- frame things as a win, people willl go toward it, loss, people will go away
+		- e.g. 99% fat free vs 1% pure fat
+
+Intelligence
+- who is 'smart'?
+- what is 'smart'?
+- multiple ways to be smart
+- Multiple Intelligences (Gardner)
+	- math (logic)
+	- linguistic (verbal)
+	- spatial (dimensions)
+	- interpersonal (understanding other people)
+	- intrapersonal (understanding yourself)
+	- bodily (kinesthetic)
+	- musical
+	- naturalistic (understanding nature)
+- history of intelligence testing
+	- Binet
+		- France, late 1800's
+		- tried to identify slow learning kids
+		- writes test 30 questions long, meant for pre-schoolers
+		- questions got harder and harder
+		- mental age determined by when you started to get questions wrong
+		- mental age compared with physical age
+	- Goddard
+		- America, early 1900's
+		- tested theory of smart kids from smart parents
+		- takes copy of Binet's test to New York
+			- tests Americans in New York, 98% pass
+			- tests immigrants in New York
+				- failure rates:
+					- Hungary 80%
+					- Italy 79%
+					- Jewish 83%
+					- Russia 87%
+		- suggested those who failed to be forcibly sterilized
+			- sent to institutions if found by a court to be feeble minded
+			- feeble mindedness made illegal
+			- Buck v. Bell, 274 U.S. 200 (1927)
+	- Terman
+		- America, early 1900's
+		- Intelligence Quotient
+			- (MA/PA) x 100
+				- mental age divided by physical age multiplied by 100
+	- Yerkes
+		- worked for US military
+		- sort people's intelligence to make basic training more effective
+		- group testing
+			- test 2 million men
+		- alpha test
+			- for literate
+		- beta test
+			- for illiterate
+		- intelligence is potential
+		- beta test was flawed
+	- Wechsler
+		- 1950's
+		- one-on-one
+		- lose information on a group test
+			- are they motivated? are they sick? etc.
+		- low scores of group test get one-on-one attention
+			- school psychologists
+				- need training and psychometric theory
+		- subscales
+			- categories, sub tests
+			- IQ test -> math section, verbal section, etc.
+		- last great advance in intelligence testing
+- IQ Interpretation
+	- bell curve
+	- 100 is average score
+	- std dev +-15
+	- IQ is speed, higher the number, the faster you think
+		- not necessarily better
+	- 68% of people between 85 and 115
+		- average
+	- 115-130 
+		- above average
+	- 70-85
+		- below average
+	- 70-130
+		- 95% of people
+	- >130
+		- 2.5%
+		- gifted
+	- <70
+		- retard
+		- changed name to intellectual disability
+		- deficiencies in adaptive skills
+			- problems learning new things
+
+Levels of Intellectual Disability
+- educable
+	- can learn, just takes longer
+	- teach essential things
+	- work jobs that don't change
+		- problems learning new things
+- trainable
+	- can perform a task
+	- typically going to live in a group home
+	- problems with social skills
+- custodial
+	- live in instituion
+	- often linked with physical defects
+		- life expectancy is shorter
+	- slow by a factor of 20 to 30
+Differences in IQ
+- gender
+	- total
+		- equal
+	- math
+		- girls and men score higher
+	- verbal
+		- female score higher
+	- spatial
+		- 
+- racial
+	- asian -> white -> hispanic -> black
+	- probably due to ecoonomic differences

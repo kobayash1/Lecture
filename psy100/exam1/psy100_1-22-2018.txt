@@ -1,0 +1,35 @@
+PSY 100 1/22/2018
+- psychology - the scientific study of mental processes and behavior
+- not very exact - human element
+- goals
+	- describe
+	- predict - "best predictor of future behavior is past behavior"
+	- explain
+	- control/alter - ultimate goal is to make people better
+- research methods
+	- naturalistic observation - see things outside of your experience
+	- case study - ask a few people a lot of questions
+		- need trained interviewer
+		- people can only share what they remember
+	- survey - ask a lot of people a few questions
+		- need trained survey writer
+		- people lie on surveys
+			- don't want to admit they're naughty
+			- don't want to admit they're ignorant
+			- are jerks
+	- measures/tests/inventories
+		- harder to fake/lie
+		- tend to be at the end of the research process
+- research designs
+	- correlational
+		- measure 'A'
+		- measure 'B'
+		- does knowing 'A' help you predict 'B'?
+		- limits
+			- no control over 'A' or 'B'
+			- only predictions
+				- not a bad thing
+		- prediction vs explanation
+			- correlational study is concerned with prediction, not explanation
+			- trying to explain leads to "The Third Variable Problem"
+				- correlation has only 2 variables

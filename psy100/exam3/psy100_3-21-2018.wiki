@@ -1,0 +1,382 @@
+= Motivation all emotion =
+== motivator ==
+	- activation
+	- intensity
+	- persistence
+== motivation (grand theories) ==
+	- instinct
+		- things are done because thats the way brains are wired
+		- complex
+		- unlearned
+		- automatic
+		- involuntary
+	- drive reduction
+		- human beings have needs
+			- "or you will die"
+		- need -> drive -> goal
+	- incentive
+		- we do things because we think we'll get something good
+		- doesn't explain why we do bad things
+	- *Maslow's hierarchy of needs*
+		- all needs including psychological needs
+		- pyramid of needs
+			- _self actualization_ - be the best i can be
+				- esteem - be respected by others
+					- belongingness - family, friends, lovers
+						- safety - shelter
+							- physiological - air, food, water
+== motivation (specific theories) ==
+	- social needs (Murray)
+		- need for achievement
+		- need for power
+		- need for autonomy
+
+= Emotions as Motivators =
+- components
+	- physical
+		- how does your body feel
+		- what does this emotion do to your heart rate, etc.
+		- every major emotion has a different effect on body
+		- intensity
+			- stronger physical response, stronger emotion is felt
+			- if you can change the physical response, you can change emotion intensity
+				- drugged up, can't get scared of needles and scalpels
+	- cognitive
+		- what you are thinking
+		- happy thoughts, sad thoughts, etc.
+	- behavioral
+		- what you do
+		- do happy things, angry things, etc.
+
+===Love as a Motivator===
+- What is love?
+	- intimacy
+		- desire to share of self
+		- does not necessarily desire physical
+			- e.g. sharing a joke
+		- liking - intimacy with no passion, no commitment
+			- e.g. student, teacher
+	- passion
+		- desire to be with the other right now
+		- person, creature, activity, anything above anything else
+		- infatuation - passion with no intimacy and commitment
+			- e.g. high school crush
+			- causes you to lose your mind
+	- commitment
+		- desire to be with the other for a long time
+		- empty love - commitment without passion and intimacy
+			- e.g. parents that don't love each other that have kids
+	- romantic love
+		- intimacy and passion
+		- generally men fall in romantic love first
+	- fatuous love
+		- passion annd commitment
+		- "love at first sight"
+	- companionate love
+		- intimacy and commitment
+		- best friends
+	- consummate love
+		- all three
+		- also known as true love
+- love changes over time
+	- mother's love for child goes from consummate when infant to empty when adult
+		- needs change
+		- child no longer needs that much attention
+- passion decreases in long-term relationships
+	- about 10 years
+	- any type of love based on passion is unstable
+	- passionate love linked with neurotransmitter related to cocaine
+- long-term companionate love linked with neurotransmitter related to heroin
+	- great
+	- from excitement to comfort
+- 3 secrets to happy marriage
+	- money
+		- less stress caused by lack of money
+	- need to be in the same kind of love
+		- different kinds of love between the two leads to stress
+	- communication
+		- partner grows with you
+		- two people grow together by sharing their experiences by talking
+		- in ten years, they would be different people, but would fall in love with each other if they just met
+
+Gender & Sexuality
+
+- Chromosomes
+	- XX and XY
+	- defaults to women
+		- until Y chromosome changes to men
+	- extra chromosomes -> lower intellectual function
+		- trisonomy
+	- quadsonomy -> likely dead
+	- chromosomes determine the sex of the gonads
+		- ovaries, testes
+			- gonads produce the sex hormones
+				- testosterone, estrogen
+					- hormones determine external genitalia
+						- penis, vagina
+	- chromosomes -> gonads -> hormones -> external genitalia
+		-> assignment/rearing
+	- assignment
+		- what the doctor says the child is
+	- rearing
+		- how they're raised
+	- hormones -> brain
+		- hormones also affect development of brain
+		- brain -> gender identity
+			- area in the brain helps you identify as male or female
+			- gender identity and external genitalia occur at different times
+				- gender dysphoria
+					- one's gender identity does not match external genitalia
+	- brain -> gender role
+		- how you act
+			- masculine, feminine, androgynous
+			- established by culture
+
+- Sexual Orientation
+	- direction of a person's primary sexual desire
+	- determined by brain
+		- defaults to desiring men
+			- testosterone changes that to desiring women
+
+- History of Sex Research
+- Kinsey (1940s/1950s)
+	- survey
+		- the first survey on sex
+	- do you have sex, how often, and how old were you when you started?
+	- learned people have lots of sex and start early
+	- was a zoologist -> asked questions about sex psychologists avoided
+	- The 'Kinsey' Report
+		- bestselling book
+	- accused of ruining the American family
+		- evidence of him being very sexually deviant
+- Masters & Johnson (50s/60s)
+	- set up survey so people couldn't lie
+	- they watched
+	- set up sex lab
+	- watched over 10,000 people
+	- filmed, recorded, monitored brain waves
+	- used prostitutes first, then college students
+	- Masters & Johnson eventually married then divorced
+	- human sexual response cycle
+		- physical response over time
+		- 5 steps
+			- 1. desire
+				- person will not have full sexual response without desire
+			- 2. excitement
+				- dick hard, vadge wet
+			- 3. plateau
+				- arousal still increasing, just slow
+				- longest step on arousal v time graph
+			- 4. orgasm
+				- sharp increase in arousal
+				- orgasms in the brain
+				- big increase in electrical activity
+					- equivalent in epileptic seizure
+			- 5. resolution
+				- body recovers, arousal drops
+			- 5a. refractory period
+				- for males
+				- male cannot have another orgasm
+				- minutes for young and healthy
+				- 1-2 days for older
+				- no refractory period for females
+- Sexual Dysfunctions
+	- when a person cannot complete the sexual response cycle
+	- female sexual interest/arousal disorder
+		- does not want sex, or body does not respond
+		- age, health, drugs affect interest
+			- see doctor first
+		- stress in relationship can affect interest
+			- then see counselor
+		- is the sex good?
+		- check depression
+		- check body image
+			- does she feel pretty and desirable
+		- check for previous rape and abuse
+		- "i enjoy it, but i wish i wanted it more"
+	- male hypoactive sexual desire disorder
+	- * promiscuity *
+	- erectile disorder
+		- erection not sufficent for intercourse
+	- female orgasmic disorder / delayed ejaculation
+		- no orgasm despite sufficient stimulation
+	- premature ejaculation
+		- short plateau (approx. 2 mins)
+	- genito pelvic pain / penetration disorder
+		- female, intercourse hurts
+	- * priapism * erection does not go away after orgasm
+	- * phimosis * foreskin too tight
+	- * peyronie's * bent while erect - over 45 to 90 degrees
+
+- paraphilia
+	- inappropriate desire, exclusive focus and/or non-consenting partner
+	- fetishistic disorder
+		- sexual gratification through body part, object vs other
+	- transvestic disorder
+		- sexual gratification through wearing clothes of the opposite sex
+		- transvestites mostly male
+		- has to be for a sexual thrill, not just cosplay
+		- exclusive focus disorder -> occasional thing is ok
+	- sexual sadism disorder
+		- sexual gratification through inflicting pain or humiliation on a willing partner
+			- not rapists tho
+	- sexual masochism disorder
+		- sexual gratification through receiving pain or humiliation
+	- exhibitionistic disorder
+		- sexual gratification through exposing one's genitals to unwilling people
+		- mostly (all?) male
+		- mostly physically harmless
+		- telephone scatalogia
+			- sexual gratification through obscene phone calls
+	- voyeuristic disorder
+		- sexual gratification though watching naked or semi-naked people without their knowledge
+	- frotteuristic disorder
+		- sexual gratification through rubbing one's genitals on unknowing people
+		- usually not going to expose themselves
+		- not in dance clubs
+			- willing partners = no power
+	- pedophilic disorder
+		- sexual gratification through contact with children who have not reached puberty
+	- zoohilia
+		- sexual gratification through sexual contact with animals
+		- rare, usually involves alcohol
+	- necrophilia
+		- sexual gratification through contact with dead people
+
+Personality
+- an enduring set of psychological characteristics that can be used to compare, contrast, and predict individuals
+	- enduring set = personality does not change quickly
+
+- psychoanalytic theory
+- Freud
+	- father of psychology
+	- we don't start out with a full personality
+	- done at age 14
+	- develop through conflict
+	- parts of the personality
+		- id
+			- seek pleasure
+				- babies -> seek only what they want
+		- ego
+			- reality
+			- sense of self
+		- superego
+			- sense of morality
+				- sense of right and wrong
+	- psychosexual stages
+		- we find pleasure in different things as we grow up
+		- pleasure center
+			- conflict
+				- challenges to be overcome make us grow
+			- fixation
+				- person uses the previous tools to solve problems
+		- oral stage (0-1 years)
+			- first pleasure center
+		- anal stage (1-3 years)
+			- second pleasure center
+			- just poop whenever you want
+				- "rules dont apply to me"
+			- toilet training introduces rules
+			- anal expulsive
+				- fight the rules
+			- anal retentive
+				- know the rules too well
+					- receive approval
+		- phallic stage (3-6 years)
+			- third pleasure center, the genitals
+			- man vs woman
+			- think about future
+			- who they're going to marry
+				- mother
+					- can't she's already married
+						- oedipal conflict
+							- kill dad?
+							- castration anxiety
+			- boys adopt masculine gender role
+				- become more like dad so he doesnt hurt me
+			- electra conflict
+				- girl falls in love with dad, want to kill mom, cant, adopt a gender role
+		- latency stage (6-11 years)
+			- pleasure center is going to school
+			- no conflict
+		- genital stage (11+ years)
+			- pleasure center is adult romantic relationships
+			- conflict is adult romantic relationships
+	- Freud did not get much right
+
+- Neo Freudians
+	- Jung
+		- collective unconscious
+			- people shared an unconscious beliefs
+			- introversion vs extroversion
+				- inwardly directed vs externally directed
+					- shy vs outgoing
+		- no such thing as a collective unconscious
+		- we kept introvert vs extrovert
+		- Freud could not explain Jung's theory, fired him
+	- Adler
+		- striving for superiority
+			- acknowledge people trying to be better
+		- inferiority complex
+			- people desire to be seen as better
+		- said Freud was focusing on wrong things, Freud fired him
+		- we kept inferiority complex
+
+Ego Defense Mechanisms
+	- ego is sense of self
+	- your self is not perfect
+		- this realization is scary
+			- defend yourself
+	- denial
+		- deny that you have a problem, that you have failed
+	- repression
+		- just don't think about it
+	- regression
+		- you go back to a time mentally when you didn't have this problem
+			- call for mommy
+	- rationalization
+		- come up with an excuse
+	- reaction formation
+		- you do the opposite of what you really want to do
+	- projection
+		- you blame the other person
+			- "I don't have a problem, you do"
+	- fantasy
+		- you have an unacceptable desire, so you do it in your mind
+		- daydreams
+	- displacement
+		- you find a safe target
+			- go home and yell at spouse
+	- undoing
+		- make it as if it never happened
+			- renew wedding vows
+				- "did she find out you cheated?"
+	- sublimation
+		- you make a bad thing good
+			- how can i make hurting others good?
+				- boxing
+	- we kept all these ego defense mechanisms
+
+- Modern Approaches
+	- Type vs Trait
+		- old theories are type theories
+			- one word to describe you
+		- modern theories are trait theories
+			- what makes you up
+			- combinations of traits
+	- Big Five Theory
+		- personality trait theory based on 5 traits
+		- McCrae & Costa
+		- openness to new experience
+		- conscientiousness
+			- how honest and dependable are you
+				- high conscientiousness is honest and dependable
+		- extraversion
+			- stolen from Jung
+			- how outgoing are you
+		- agreeableness
+			- how well do you get along with other people
+		- neuroticism
+			- how well you handle stress
+				- low in neuroticism, you handle stress well
+				- high in neuroticism, everything stresses you out

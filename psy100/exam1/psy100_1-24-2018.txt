@@ -1,0 +1,30 @@
+- experimental design
+	- change 'Independent Variable,' measure 'Dependent Variable'
+	- change in 'DV' is caused by 'IV'
+	- design must control all third variables
+- how to control third variables
+	- placebo when people change because hey think they're supposed to change
+- statistics
+	- measures of central tendency (averages)
+		- mean (x with a bar above it or M)
+			- vulnerable to outliers
+		- median
+			- halfway from top and bottom, regardless of values
+			- score of average person
+			- mitigates problem of outliers
+		- mode
+			- used when dealing with categorical data
+			- most frequently occuring value
+	- measures of variability
+		- range
+			- high score minus low score
+		- standard deviation
+			- average deviation
+	- correlation coefficient (r)
+		- how related two things are
+		- -1 to 1
+		- closer to 1 = positiive correlation
+		- closer to -1 = negative correlation
+		- both negative and positive correlation mean stronger relationship, closer to 0 = no correlation
+		- omg this guy in class is a fucking moron
+		- 

@@ -1,0 +1,38 @@
+- conditioned fear (Watson)
+	- can we teach fear
+	- baby born without fear
+	- Watson trained baby to fear rat by clanging loud noise whenever baby reached for rat
+	- baby ended up trained to fear white and soft things
+	- baby ended up fearing santa claus, Watson's white hair, other white soft fuzzy things
+	- Watson ended up going into advertising
+
+- phobia
+	- extremely afraid is normal in extreme danger
+	- irrational fear
+		- of something that cannot hurt you and/or isn't present
+
+- strength of conditioning
+	- frequency
+		- (UCS + CS) x very many
+		- pair stimuli and response as much as you can
+	- timing
+		- CS -> .5s -> UCS
+	- intensity
+		- UCS x super strong
+	- reliability
+		- (UCS + CS) = always
+
+- law of effect (Thorndike)
+	- if a behavior is followed by a consquence that is better than nothing, you will repeat the behavior
+	- if a behavior is followed by a negative consequence, you will not repeat the behavior
+	- if B -> C > 0, repeat B
+	- if B -> C < 0, do not repeat B
+
+- operant conditioning (Skinner)
+	- took Thorndike's shit, renamed it himself
+	- called the first principle "reinforcement"
+	- shaping
+		- gradually build behaviors
+			- trained chicken to play tic tac toe
+			- project pigeon (guide missles)
+		
