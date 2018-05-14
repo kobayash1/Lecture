@@ -1,0 +1,987 @@
+* Abnormal/Clinical Psychology or Psychopathology
+  :PROPERTIES:
+  :CUSTOM_ID: abnormalclinical-psychology-or-psychopathology
+  :END:
+
+- what most people think *psychologists* do
+- largest /subfield/
+- 52 different subfields in psychology
+- study of abnormal behavior and mental disorders
+- Diagnostic and Statistical Manual of Mental Disorders - 5th editon
+- prevalence
+
+  - currently - 10-30% of people with active mental disorder
+  - lifetime - 30-50% of people over their lifetimes will have active
+    mental disorder and should seek help
+
+- who to see
+
+  - counseling psychologist
+
+    - deals with everyday problems of patients
+    - front lines
+
+  - clinical psychologist
+
+    - deals with mental disorders
+    - may be referred to from counseling psychologist
+    - give you diagnosis
+    - give you treatment plan
+
+  - psychiatrist
+
+    - medical doctor with two years of psych training
+    - works for clinical psychologist
+    - handles medications
+    - can prescribe medications
+    - does little to no therapy
+    - basically just does meds
+
+  - therapist
+
+    - specializes in treatment for a specific disorder
+
+- criteria for mental disorder
+
+  - is strange within culture
+  - causes distress
+  - causes danger to self or others
+  - is maladaptive
+
+    - interfering quality of life
+
+  - meet all 4 of these at a high level, they have a disorder, 3
+    probably
+
+** Insanity
+   :PROPERTIES:
+   :CUSTOM_ID: insanity
+   :END:
+
+ - not guilty by reason of insanity if, at the time of the crime, the
+   person could not know right form wrong
+
+   - a few mental disorders interfere with your ability to know what you
+     are doing
+   - does not include drug use
+
+ - insanity is a legal term
+
+* Disorders
+** Anxiety Disorders
+   :PROPERTIES:
+   :CUSTOM_ID: anxiety-disorders
+   :END:
+
+*** Generalized Anxiety Disorder
+    :PROPERTIES:
+    :CUSTOM_ID: generalized-anxiety-disorder
+    :END:
+
+ - disorders characterized by anxiety and avoidance behaviors
+ - don't have sufficient reason to be stressed out
+
+*** Panic Disorder
+    :PROPERTIES:
+    :CUSTOM_ID: panic-disorder
+    :END:
+
+ - has panic attacks
+
+*** Phobias
+    :PROPERTIES:
+    :CUSTOM_ID: phobias
+    :END:
+
+ - irrational fear
+ - specific phobia
+
+   - irrational fear of single event or object
+
+ - most common form of anxiety disorder
+ - social anxiety
+
+   - irrational fear of
+
+     - being humiliated
+     - public bathrooms
+     - giving speeches
+
+ - agoraphobia
+
+   - fear of leaving home or some safe place
+   - not uncommon to be source of panic attacks
+
+*** Post Traumatic Stress Disorder
+    :PROPERTIES:
+    :CUSTOM_ID: post-traumatic-stress-disorder
+    :END:
+
+ - person goes through a trauma and then starts having flashbacks
+
+** Obsessive Compulsive Disorders
+   :PROPERTIES:
+   :CUSTOM_ID: obsessive-compulsive-disorders
+   :END:
+
+*** Obsessive Compulsive Disorder
+    :PROPERTIES:
+    :CUSTOM_ID: obsessive-compulsive-disorder
+    :END:
+
+ - obsessions
+
+   - unwanted thoughts
+
+ - compulsions
+
+   - rituals
+
+*** Hoarding Disorder
+    :PROPERTIES:
+    :CUSTOM_ID: hoarding-disorder
+    :END:
+
+ - keeping things with no predictable or sentimental value
+
+*** Body Dysmorphic Disorder
+    :PROPERTIES:
+    :CUSTOM_ID: body-dysmorphic-disorder
+    :END:
+
+ - "body wrong shape" disorder
+ - you believe an aspect of your body and image is not right and causes
+   all your problems
+
+** Somatic Disorders
+   :PROPERTIES:
+   :CUSTOM_ID: somatic-disorders
+   :END:
+
+ - disorders characterized by physical symptoms that are psychological in
+   origin
+
+   - mind decides that you are physically ill
+
+*** Somatic Symptom Disorder
+    :PROPERTIES:
+    :CUSTOM_ID: somatic-symptom-disorder
+    :END:
+
+ - you believe you have a disease despite evidence that you do not
+ - used to be called hypochondriasis
+
+*** Conversion Disorder
+    :PROPERTIES:
+    :CUSTOM_ID: conversion-disorder
+    :END:
+
+ - loss of function
+ - some part of body stops working
+ - most of the time, person does not seem to care
+
+   - "doctor, it's nothing"
+   - because it does a job
+
+     - e.g. war, people dying, hysterical blindness is good +> don't see
+       dead people
+     - brain shuts out the signals and shit
+
+       - triggered by some kind of psychological thing
+
+** Dissociative Disorders
+   :PROPERTIES:
+   :CUSTOM_ID: dissociative-disorders
+   :END:
+
+ - disorders characterized by the disruption of a person's memory,
+   identity, or consciousness
+
+*** Dissociative Amnesia
+    :PROPERTIES:
+    :CUSTOM_ID: dissociative-amnesia
+    :END:
+
+ - lose access to your memory
+ - usually going to be for a single event for a repressed memory
+ - dissociative fugue
+
+   - forget who you are, go somewhere else, become a new person
+   - your life has become so horrible that amnesia is not enough
+   - hard to treat, because you have to find them
+
+*** Dissociative Identity Disorder
+    :PROPERTIES:
+    :CUSTOM_ID: dissociative-identity-disorder
+    :END:
+
+ - distinct identity shows up in the wrong place
+
+   - e.g. party self shows up at work
+
+ - rare
+
+   - suspect this happens due to hypnotherapists
+
+** Psychotic Disorders
+   :PROPERTIES:
+   :CUSTOM_ID: psychotic-disorders
+   :END:
+
+ - when a person has a break from reality
+ - person is no longer functioning in reality
+
+*** Schizophrenia
+    :PROPERTIES:
+    :CUSTOM_ID: schizophrenia
+    :END:
+
+ - positive symptoms
+
+   - have something average person does not
+   - something the average person does not possess
+   - inappropriate affect
+
+     - affect -> emotion
+     - emotion does not match the situation
+
+   - grossly disorganized behavior/movement
+   - hallucinations
+
+     - might hear voices
+     - could be drugs though
+
+   - delusions
+
+     - fixed false belief
+
+       - not just matter of opinion
+       - something demonstrably false
+
+     - persecution
+
+       - "they're out to get me"
+
+     - grandeur
+
+       - "i am an important person"
+       - will believe they are someone else, in extreme cases
+
+     - sin & guilt
+
+       - "i've done something horrible"
+
+     - hypochondriacal
+
+       - believe they have a bizarre disease
+
+     - control
+
+       - "they're controlling my thoughts"
+
+     - reference
+
+       - "they're talking about me"
+
+     - thought broadcasting
+
+       - "people can hear my thoughts"
+
+     - thought withdrawal
+
+       - "they're stealing my thoughts"
+
+     - thought insertion
+
+       - "they're putting thoughts in my brain"
+
+     - nihilistic
+
+       - belief that part of the world is unreal
+
+   - disorders of language
+
+     - neologism
+
+       - a new word
+
+     - word salad / loose associations
+
+       - going off topic
+
+     - clanging
+
+       - rhyming
+
+     - poverty of content
+
+       - have nothing to tell you, so they will tell you in great detail
+
+ - negative symptoms
+
+   - missing something average person does not
+   - flat affect
+
+     - lack of emotion
+
+   - limited speech
+   - social withdrawal
+
+     - scared of people, don't know who to trust
+
+** Depressive Disorders
+   :PROPERTIES:
+   :CUSTOM_ID: depressive-disorders
+   :END:
+
+*** Depression
+    :PROPERTIES:
+    :CUSTOM_ID: depression
+    :END:
+
+ - clinical depression
+ - depressed mood for a long time
+
+   - between 6 months and 2 years
+
+ - anhedonia
+
+   - loss of pleasure
+
+     - no more pleasure in things you used to take pleasure in
+     - all things you used to take pleasure in
+
+ - cognitions
+
+   - thoughts depressed
+   - negative thoughts about self
+
+     - "i am worthless"
+
+   - negative thoughts about others
+
+     - "no one cares"
+
+   - negative thoughts about future
+
+     - sense of hopelessness
+     - "it's never gonna get any better"
+
+** Bipolar and Related Disorders
+   :PROPERTIES:
+   :CUSTOM_ID: bipolar-and-related-disorders
+   :END:
+
+*** Mania
+    :PROPERTIES:
+    :CUSTOM_ID: mania
+    :END:
+
+ - polar opposite of depression
+ - 7 weeks to 7 months
+ - elevated mood
+ - impulsive
+
+   - career impulsive
+   - sexually impulsive
+
+ - treated with medications for whole life
+
+* Therapy
+  :PROPERTIES:
+  :CUSTOM_ID: therapy
+  :END:
+
+** Psychotherapy
+   :PROPERTIES:
+   :CUSTOM_ID: psychotherapy
+   :END:
+
+- no one path, multiple ways of doing talk therapy
+- "talk therapy"
+- more important one
+
+*** Psychoanalytic Therapy (Freud)
+    :PROPERTIES:
+    :CUSTOM_ID: psychoanalytic-therapy-freud
+    :END:
+
+- repressed
+
+  - source of problems is repressed
+
+- insight
+
+  - figure out why you are the way you are
+  - finding source of problem
+
+- free association
+
+  - let it all out, just talk talk talk
+  - word pairing exercise
+  - dream interpretation
+
+    - write dream diary
+
+- resistance
+
+  - person pushes back as therapy approaches source of problem (scary
+    place)
+  - people want to quit therapy
+
+    - therapy only works to the degree you trust the therapist
+
+- transference
+
+  - treat therapist as source of problems
+
+*** Short-Term Dynamic Therapy
+    :PROPERTIES:
+    :CUSTOM_ID: short-term-dynamic-therapy
+    :END:
+
+- object relations
+
+  - people are objects
+  - objects must fulfill their function
+  - much more direct than Freudian style therapy
+
+*** Humanistic Therapy
+    :PROPERTIES:
+    :CUSTOM_ID: humanistic-therapy
+    :END:
+
+- trying to focus on positive aspects of the client's life
+
+**** Client-Centered Therapy (Rogers)
+     :PROPERTIES:
+     :CUSTOM_ID: client-centered-therapy-rogers
+     :END:
+
+- client is the boss
+- genuineness/congruence
+
+  - no curtain between client and therapist
+
+- unconditional positive regard
+
+  - care about you no matter what
+
+- empathetic understanding
+
+  - understand your pain
+
+**** Gestalt Therapy (Perls)
+     :PROPERTIES:
+     :CUSTOM_ID: gestalt-therapy-perls
+     :END:
+
+- german word for "whole"
+- you have to make sense as one whole thing
+
+  - thoughts, feelings, and actions need to fit together
+
+- listen and talk and figure out what pieces are not making sense
+
+*** Behavior Therapy
+    :PROPERTIES:
+    :CUSTOM_ID: behavior-therapy
+    :END:
+
+- focuses simply on changing people's behaviors
+
+**** Classical Conditioning
+     :PROPERTIES:
+     :CUSTOM_ID: classical-conditioning
+     :END:
+
+- aversive conditioning
+
+  - make a good thing bad
+
+    - e.g. smoking
+
+- counterconditioning
+
+  - make a bad thing good
+
+- systematic desensitization
+
+  - treatment for fear
+  - step 1 is to teach client how to relax
+  - then create fear hierarchy
+
+**** Operant Conditioning
+     :PROPERTIES:
+     :CUSTOM_ID: operant-conditioning
+     :END:
+
+- token economy
+
+  - involves institutional setting
+
+    - person in facility
+
+  - if person behaves, they get a token
+  - with enough tokens, person can redeem tokens for prizes
+  - used to bring someone to a level so you can start some kind of
+    therapy
+
+**** Modeling
+     :PROPERTIES:
+     :CUSTOM_ID: modeling
+     :END:
+
+- observational learning
+- assertiveness training
+
+  - teach client how to get what they want without aggression
+  - sometimes used for couples to teach them how to resolve conflicts
+
+*** Cognitive Therapy
+    :PROPERTIES:
+    :CUSTOM_ID: cognitive-therapy
+    :END:
+
+- work on the way you think
+- does psychotherapy work?
+
+  - study found it works no better than talking with your friends
+
+    - study was flawed
+    - it does work, but you have to use the right therapy
+
+**** Rational Emotive Therapy (Ellis)
+     :PROPERTIES:
+     :CUSTOM_ID: rational-emotive-therapy-ellis
+     :END:
+
+- if your thoughts are rational, so will be your emotions
+- when thoughts lead to wrong emotion
+- activating event
+
+  - what sets you off, triggers
+
+- beliefs
+
+  - who you think you should be
+
+- consequences
+
+  - what happens when you're not who you should be
+
+**** Cognitive Therapy (Beck)
+     :PROPERTIES:
+     :CUSTOM_ID: cognitive-therapy-beck
+     :END:
+
+- distorted thinking/logic
+- false beliefs
+- goal of therapy is beliefs and logic
+- do not need to find the triggers
+
+  - when your thinking is distorted, you will always find a trigger
+
+- used a lot for depression
+
+  - "okay, you're worthless, so what?"
+
+**** Cognitive Behavioral Therapy
+     :PROPERTIES:
+     :CUSTOM_ID: cognitive-behavioral-therapy
+     :END:
+
+- have client prove themselves wrong
+
+**** Group Therapy
+     :PROPERTIES:
+     :CUSTOM_ID: group-therapy
+     :END:
+
+- people who suffer from same thing
+- family and couple therapy
+
+  - broken family
+  - couple therapy sometimes court ordered
+
+** Biomedical
+   :PROPERTIES:
+   :CUSTOM_ID: biomedical
+   :END:
+
+- "drug therapy"
+- should always be a supplement, not a replacement
+
+*** Antipsychotics
+    :PROPERTIES:
+    :CUSTOM_ID: antipsychotics
+    :END:
+
+*** Anxiolytics
+    :PROPERTIES:
+    :CUSTOM_ID: anxiolytics
+    :END:
+
+- anti-anxiety
+
+*** Lithium
+    :PROPERTIES:
+    :CUSTOM_ID: lithium
+    :END:
+
+- bi-polar
+
+*** Antidepressants
+    :PROPERTIES:
+    :CUSTOM_ID: antidepressants
+    :END:
+
+- sometimes also used to treat anxiety (side effect)
+
+  - and vice versa
+
+*** Electroconvulsive Therapy
+    :PROPERTIES:
+    :CUSTOM_ID: electroconvulsive-therapy
+    :END:
+
+- electric shock therapy
+- muscle relaxants
+- for severe depression
+
+  - seizure induced by shock resets mood center
+
+    - found this from people with insulin problems
+
+      - insulin induced seizure
+
+- some short+term memory loss
+
+** What to Expect from Therapy
+   :PROPERTIES:
+   :CUSTOM_ID: what-to-expect-from-therapy
+   :END:
+
+- you will work
+
+  - keeping diary
+  - read books
+  - do homework
+  - download apps
+
+- relief is not a cure
+
+  - simply feeling better does not mean you are better
+
+- understanding is not a cure
+- you will change
+- don't sleep with your therapist
+
+* Social Psychology
+  :PROPERTIES:
+  :CUSTOM_ID: social-psychology
+  :END:
+
+- small findings
+- the study of how people think about, influence, and relate to one
+  another
+
+  - intersection of sociology and psychology
+
+** Social Influence
+   :PROPERTIES:
+   :CUSTOM_ID: social-influence
+   :END:
+
+- what are other people going to make us do
+
+*** Conformity
+    :PROPERTIES:
+    :CUSTOM_ID: conformity
+    :END:
+
+- a change in behavior or belief as a result of real or imagined group
+  pressure
+- far easier to change someone's behavior than their beliefs
+- peer pressure
+
+  - usually does not change beliefs
+
+- norms
+
+  - rules of social behavior
+  - when we succumb to peer pressure
+
+- Asch
+
+  - standard study of conformity
+  - study a line
+  - study other lines
+  - which line of the other lines is closest to the original line
+  - add people who were wrong
+  - study found you will conform with strangers from 3 to 7 strangers
+  - conformity goes to 40% with strangers
+  - study found a quarter of people would never conform
+
+- conformity also increases when
+
+  - people are unsure of the answer
+
+    - lack information
+
+  - behavior is in public
+
+*** Compliance
+    :PROPERTIES:
+    :CUSTOM_ID: compliance
+    :END:
+
+- changing one's behavior because of a request
+- norm in society to do what you are asked to do
+- compliance techniques
+
+  - foot in the door
+
+    - initial small request, then follow it up
+    - defense
+
+      - say no
+      - have a partner
+
+  - door in the face
+
+    - initial large request
+    - get turned down
+    - follow up with more reasonable request
+
+  - low ball
+
+    - don't tell them all of the price
+
+*** Obedience
+    :PROPERTIES:
+    :CUSTOM_ID: obedience
+    :END:
+
+- doing what an authority figure has told you to do
+- Milgram
+
+  - post-WWII
+  - researched why soldiers did what they were ordered to
+  - Milgram gets quizzed while strapped to electric chair
+  - every wrong question, intensity of electric shock goes up
+  - it is study participant administering electric shock
+  - gets ordered to administer shock
+  - if subject refused 4 times, experiment was over
+  - maximum of 450 volts (death)
+  - 65% of people obeyed to 450 volts
+
+    - distant
+    - victim in another room
+
+  - 40% obeyed to 450v
+
+    - immediate
+    - victim in the same room
+
+  - 30% obeyed to 450v
+
+    - contact
+    - subject holds victim's hand with insulated glove
+
+  - 25% obeyed to 450v
+
+    - voice on phone administering instructions to subject
+
+  - one group that never obeyed in all of Milgram's studies was 5 year
+    olds
+
+** Receiving Help in an Emergency
+   :PROPERTIES:
+   :CUSTOM_ID: receiving-help-in-an-emergency
+   :END:
+
+- notice event
+
+  - someone has to see the emergency
+
+- interpret as emergency
+
+  - people have to see that you are in an emergency
+
+- feel responsible
+
+  - someone has to feel responsible for helping you
+
+- know how to help
+
+  - someone has to know how to help
+
+- be allowed to help
+
+  - possble safety hazard when trying to help?
+
+** Diffusion of Responsibility
+   :PROPERTIES:
+   :CUSTOM_ID: diffusion-of-responsibility
+   :END:
+
+- as there are more people present, each person feels less responsible
+- we obey because authority figures can diffuse all of our
+  responsibility
+- obey law, avoid responsibility
+- blind obedience occurs because of diffusion of responsibility
+
+** Kitty's Tale
+   :PROPERTIES:
+   :CUSTOM_ID: kittys-tale
+   :END:
+
+- some lady Kitty
+- nice lady, bar manager
+- gets killed with 38 witnesses
+- no one calls for help until some other witness finally does much later
+- she got help
+
+  - two people called police, one person yelled
+  - not a demonstration of diffusion of responsibility
+
+** Group Process
+   :PROPERTIES:
+   :CUSTOM_ID: group-process
+   :END:
+
+- how do we function in groups
+- social facilitation
+
+  - when you're being watched, you perform better or worse
+  - good at something -> audience makes you better
+  - bad at something -> audience makes you worse
+
+- social loafing
+
+  - people are lazy
+  - people in groups are even lazier
+  - oldest finding in social psychology (1898)
+
+    - horses lazy to pull cart
+
+  - have to avoid diffusion of responsibility to overcome social loafing
+
+    - assign specific roles that the supervisor knows who's doing what
+
+** Attributions
+   :PROPERTIES:
+   :CUSTOM_ID: attributions
+   :END:
+
+- deciding why somebody did something
+- dispositional
+
+  - person did it because that is the kind of person they are
+  - pre-disposed
+
+- situational
+
+  - person did it because situation forced them
+
+*** Attributional Biases
+    :PROPERTIES:
+    :CUSTOM_ID: attributional-biases
+    :END:
+
+|           | others                            | self          |                           |
+|-----------+-----------------------------------+---------------+---------------------------|
+| failure   | disposition                       | situation     | *actor-observer effect*   |
+| success   | disposition                       | disposition   | *self-serving bias*       |
+|           | *fundamental attribution error*   |               |                           |
+
+- fundamental attribution error
+
+  - looking at others, we don't consider all the possible factors that
+    could situationally affect their outcomes
+
+- actor-observer effect
+
+  - over-analyzing situation when looking at your own outcomes
+  - self is actor, use situation
+  - self is observer, use disposition
+
+- self-serving bias
+
+  - attributing success to one's self too much
+
+** Interpersonal Attraction
+   :PROPERTIES:
+   :CUSTOM_ID: interpersonal-attraction
+   :END:
+
+- how to win friends and influence people
+- how to get people interested in you
+- physical attractiveness
+
+  - people are attracted to attractive people
+
+- proximity (/convenience -> internet)
+
+  - more likely to like someone who is close by
+
+- similarity
+
+  - surface similarity
+  - something small, shallow
+  - e.g. common interests
+
+- reciprocal liking
+
+  - we like people that like us
+  - pre-emptively like people
+  - there's also reciprocal disliking
+
+- liking through association
+
+  - associated with something happy, we like them, even if they didn't
+    do anything in particular
+  - being around when something good happens, makes people think of you
+    good
+
+** Self vs Other
+   :PROPERTIES:
+   :CUSTOM_ID: self-vs-other
+   :END:
+
+- stereotype
+
+  - beliefs about the members of a group
+
+- prejudice
+
+  - stereotype plus emotion
+  - love x
+  - hate x
+  - fear x
+  - people tend to prejudice only on things they care about
+
+    - millions of stereotypes, only a handful of prejudices
+
+- discrimination
+
+  - treating people differently based on group membership
+  - makes sense if based on an accurate stereotype
+
+** In-Group vs Out-Group
+   :PROPERTIES:
+   :CUSTOM_ID: in-group-vs-out-group
+   :END:
+
+- as long as it exists there will be destruction
+- to solve, find common threat or goal
+- "us and them"
+- us is better, a lot more thems
+- leads to destructive discriminations and prejudices
+- to reduce us vs them, we must find a way to make them us
+
+  - find commonality
+    - goal or threat
+    - food, music
+
