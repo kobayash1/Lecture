@@ -3,20 +3,20 @@
   :CUSTOM_ID: abnormal-psychology
   :END:
 
-- also called Clinical Psychology or Psychopathology
-- study of abnormal behavior and mental disorders
-- what most people think *psychologists* do
-- largest /subfield/
-- 52 different subfields in psychology
-- Diagnostic and Statistical Manual of Mental Disorders - 5th editon
+  - also called Clinical Psychology or Psychopathology
+  - study of abnormal behavior and mental disorders
+  - what most people think *psychologists* do
+  - largest /subfield/
+  - 52 different subfields in psychology
+  - Diagnostic and Statistical Manual of Mental Disorders - 5th editon
 
 ** Prevalence
 
-  - currently - 10-30% of people with active mental disorder
-  - lifetime - 30-50% of people over their lifetimes will have active
-    mental disorder and should seek help
+   - currently - 10-30% of people with active mental disorder
+   - lifetime - 30-50% of people over their lifetimes will have active
+     mental disorder and should seek help
 
-** Who to see
+** Who to See
 
 *** Counseling Psychologist
 
@@ -43,27 +43,27 @@
 
     - specializes in treatment for a specific disorder
 
-** Criteria for mental disorder
+** Criteria for Mental Disorder
 
-  1. is strange within culture
-  2. causes distress
-  3. causes danger to self or others
-  4. is maladaptive
-    - interfering quality of life
-  - meet all 4 of these at a high level, they have a disorder, 3
-    probably
+   1. is strange within culture
+   2. causes distress
+   3. causes danger to self or others
+   4. is maladaptive
+      - interfering with quality of life
+   5. meet all 4 of these at a high level, they have a disorder, 3
+      probably
 
 ** Insanity
    :PROPERTIES:
    :CUSTOM_ID: insanity
    :END:
 
- - not guilty by reason of insanity if, at the time of the crime, the
-   person could not know right form wrong
-   - a few mental disorders interfere with your ability to know what you
-     are doing
-   - does not include drug use
- - insanity is a legal term
+   - not guilty by reason of insanity if, at the time of the crime, the
+     person could not know right form wrong
+     - a few mental disorders interfere with your ability to know what you
+       are doing
+     - does not include drug use
+   - insanity is a legal term
 
 ** Disorders
 *** Anxiety Disorders
@@ -76,46 +76,46 @@
      :CUSTOM_ID: generalized-anxiety-disorder
      :END:
 
-  - disorders characterized by anxiety and avoidance behaviors
-  - don't have sufficient reason to be stressed out
+     - disorders characterized by anxiety and avoidance behaviors
+     - don't have sufficient reason to be stressed out
 
 **** Panic Disorder
      :PROPERTIES:
      :CUSTOM_ID: panic-disorder
      :END:
 
-  - has panic attacks
+     - has panic attacks
 
 **** Phobias
      :PROPERTIES:
      :CUSTOM_ID: phobias
      :END:
 
-  - irrational fear
+     - irrational fear
 
 ***** Specific Phobia
       
-    - irrational fear of single event or object
-    - most common form of anxiety disorder
+      - irrational fear of single event or object
+      - most common form of anxiety disorder
 
 ***** Social Anxiety
 
-    - irrational fear of
-      - being humiliated
-      - public bathrooms
-      - giving speeches
+      - irrational fear of
+        - being humiliated
+        - public bathrooms
+        - giving speeches
 
 ***** Agoraphobia
 
-    - fear of leaving home or some safe place
-    - not uncommon to be source of panic attacks
+      - fear of leaving home or some safe place
+      - not uncommon to be source of panic attacks
 
 **** Post Traumatic Stress Disorder
      :PROPERTIES:
      :CUSTOM_ID: post-traumatic-stress-disorder
      :END:
 
-  - person goes through a trauma and then starts having flashbacks
+     - person goes through a trauma and then starts having flashbacks
 
 *** Obsessive Compulsive Disorders
     :PROPERTIES:
@@ -127,96 +127,96 @@
      :CUSTOM_ID: obsessive-compulsive-disorder
      :END:
 
-  - obsessions
-    - unwanted thoughts
-  - compulsions
-    - rituals
+     - obsessions
+       - unwanted thoughts
+     - compulsions
+       - rituals
 
 **** Hoarding Disorder
      :PROPERTIES:
      :CUSTOM_ID: hoarding-disorder
      :END:
 
-  - keeping things with no predictable or sentimental value
+     - keeping things with no predictable or sentimental value
 
 **** Body Dysmorphic Disorder
      :PROPERTIES:
      :CUSTOM_ID: body-dysmorphic-disorder
      :END:
 
-  - "body wrong shape" disorder
-  - you believe an aspect of your body and image is not right and causes
-    all your problems
+     - "body wrong shape" disorder
+     - you believe an aspect of your body and image is not right and causes
+       all your problems
 
 *** Somatic Disorders
     :PROPERTIES:
     :CUSTOM_ID: somatic-disorders
     :END:
 
-  - disorders characterized by physical symptoms that are psychological in
-    origin
-    - mind decides that you are physically ill
+    - disorders characterized by physical symptoms that are psychological in
+      origin
+      - mind decides that you are physically ill
 
 **** Somatic Symptom Disorder
      :PROPERTIES:
      :CUSTOM_ID: somatic-symptom-disorder
      :END:
 
-  - you believe you have a disease despite evidence that you do not
-  - used to be called hypochondriasis
+     - you believe you have a disease despite evidence that you do not
+     - used to be called hypochondriasis
 
 **** Conversion Disorder
      :PROPERTIES:
      :CUSTOM_ID: conversion-disorder
      :END:
 
-  - loss of function
-  - some part of body stops working
-  - most of the time, person does not seem to care
-    - "doctor, it's nothing"
-    - because it does a job
-      - e.g. war, people dying, hysterical blindness is good -> don't see
-        dead people
-      - brain shuts out the signals and shit
-        - triggered by some kind of psychological thing
+     - loss of function
+     - some part of body stops working
+     - most of the time, person does not seem to care
+       - "doctor, it's nothing"
+       - because it does a job
+         - e.g. war, people dying, hysterical blindness is good -> don't see
+           dead people
+         - brain shuts out the signals and shit
+           - triggered by some kind of psychological thing
 
 *** Dissociative Disorders
     :PROPERTIES:
     :CUSTOM_ID: dissociative-disorders
     :END:
 
-  - disorders characterized by the disruption of a person's memory,
-    identity, or consciousness
+    - disorders characterized by the disruption of a person's memory,
+      identity, or consciousness
 
 **** Dissociative Amnesia
      :PROPERTIES:
      :CUSTOM_ID: dissociative-amnesia
      :END:
 
-  - lose access to your memory
-  - usually going to be for a single event for a repressed memory
-  - dissociative fugue
-    - forget who you are, go somewhere else, become a new person
-    - your life has become so horrible that amnesia is not enough
-    - hard to treat, because you have to find them
+     - lose access to your memory
+     - usually going to be for a single event for a repressed memory
+     - dissociative fugue
+       - forget who you are, go somewhere else, become a new person
+       - your life has become so horrible that amnesia is not enough
+       - hard to treat, because you have to find them
 
 **** Dissociative Identity Disorder
      :PROPERTIES:
      :CUSTOM_ID: dissociative-identity-disorder
      :END:
 
-  - distinct identity shows up in the wrong place
-    - e.g. party self shows up at work
-  - rare
-    - suspect this happens due to hypnotherapists
+     - distinct identity shows up in the wrong place
+       - e.g. party self shows up at work
+     - rare
+       - suspect this happens due to hypnotherapists
 
 *** Psychotic Disorders
     :PROPERTIES:
     :CUSTOM_ID: psychotic-disorders
     :END:
 
-  - when a person has a break from reality
-  - person is no longer functioning in reality
+    - when a person has a break from reality
+    - person is no longer functioning in reality
 
 **** Schizophrenia
      :PROPERTIES:
@@ -225,13 +225,13 @@
 
 ***** Positive Symptoms
 
-    - have something average person does not
-    - something the average person does not possess
+      - have something average person does not
+      - something the average person does not possess
 
 ****** Inappropriate Affect
 
-      - affect -> emotion
-      - emotion does not match the situation
+       - affect -> emotion
+       - emotion does not match the situation
 
 ****** Grossly Disorganized Behavior/Movement
 
@@ -239,15 +239,15 @@
 
 ****** Hallucinations
 
-      - might hear voices
-      - could be drugs though
+       - might hear voices
+       - could be drugs though
 
 ****** Delusions
 
-      - fixed false belief
-        - not just matter of opinion
-        - something demonstrably false
-      - many different kinds of delusions
+       - fixed false belief
+         - not just matter of opinion
+         - something demonstrably false
+       - many different kinds of delusions
 
 ******* Persecution
 
@@ -310,11 +310,11 @@
 
 ***** Negative Symptoms
       
-    - missing something average person does not
+      - missing something average person does not
 
 ****** Flat Affect
        
-      - lack of emotion
+       - lack of emotion
 
 ****** Limited Speech
 
@@ -322,7 +322,7 @@
 
 ****** Social Withdrawal
 
-      - scared of people, don't know who to trust
+       - scared of people, don't know who to trust
 
 *** Depressive Disorders
     :PROPERTIES:
@@ -334,32 +334,32 @@
      :CUSTOM_ID: depression
      :END:
 
-  - clinical depression
-  - depressed mood for a long time
-    - between 6 months and 2 years
+     - clinical depression
+     - depressed mood for a long time
+       - between 6 months and 2 years
 
 ***** Anhedonia
 
-    - loss of pleasure
-      - no more pleasure in things you used to take pleasure in
-      - all things you used to take pleasure in
+      - loss of pleasure
+        - no more pleasure in things you used to take pleasure in
+        - all things you used to take pleasure in
 
 ***** Cognitions
 
-    - thoughts depressed
+      - thoughts depressed
 
 ****** Negative Thoughts About Self
 
-      - "i am worthless"
+       - "i am worthless"
 
 ****** Negative Thoughts About Others
 
-      - "no one cares"
+       - "no one cares"
 
 ****** Negative Thoughts About Future
 
-      - sense of hopelessness
-      - "it's never gonna get any better"
+       - sense of hopelessness
+       - "it's never gonna get any better"
 
 *** Bipolar and Related Disorders
     :PROPERTIES:
@@ -371,13 +371,13 @@
      :CUSTOM_ID: mania
      :END:
 
-  - polar opposite of depression
-  - 7 weeks to 7 months
-  - elevated mood
-  - impulsive
-    - career impulsive
-    - sexually impulsive
-  - treated with medications for whole life
+     - polar opposite of depression
+     - 7 weeks to 7 months
+     - elevated mood
+     - impulsive
+       - career impulsive
+       - sexually impulsive
+     - treated with medications for whole life
 
 * Therapy
   :PROPERTIES:
