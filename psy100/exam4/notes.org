@@ -1,3 +1,7 @@
+#+TITLE: PSY 100 - Exam 4
+#+AUTHOR: Chris Bayot
+#+DATE: April 2018
+
 * Abnormal Psychology 
   :PROPERTIES:
   :CUSTOM_ID: abnormal-psychology
