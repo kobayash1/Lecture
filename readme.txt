@@ -1,1 +1,1 @@
-Lecture notes from class.
+Lecture notes from class <3.
